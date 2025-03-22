@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Loans\\": ""
+        }
+    },
+    "name": "oranfry/loans",
+    "require": {
+        "oranfry/simple-fields": "*"
+    }
+}
